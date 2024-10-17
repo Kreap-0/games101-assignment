@@ -1,3 +1,0 @@
-C:/Users/14930/Desktop/source/GAMES101/A0/build/CMakeFiles/Transformation.dir
-C:/Users/14930/Desktop/source/GAMES101/A0/build/CMakeFiles/edit_cache.dir
-C:/Users/14930/Desktop/source/GAMES101/A0/build/CMakeFiles/rebuild_cache.dir

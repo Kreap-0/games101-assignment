@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/14930/Desktop/source/GAMES101/A0/build",
-  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Transformation.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Transformation.dir\\main.cpp.obj -c C:\\Users\\14930\\Desktop\\source\\GAMES101\\A0\\main.cpp",
-  "file": "C:/Users/14930/Desktop/source/GAMES101/A0/main.cpp",
-  "output": "CMakeFiles/Transformation.dir/main.cpp.obj"
-}
-]
