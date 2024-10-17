@@ -4,6 +4,7 @@ project(Rasterizer)
 set(CMAKE_CXX_STANDARD 17)
 
 list(APPEND CMAKE_PREFIX_PATH "C:/Library/opencv/build")
+list(APPEND CMAKE_PREFIX_PATH "C:/Library/eigen/build")
 
 find_package(OpenCV REQUIRED)
 find_package(Eigen3 REQUIRED)
